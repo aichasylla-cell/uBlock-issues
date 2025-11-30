@@ -18,6 +18,10 @@ Report issues with filter lists or broken website functionality in the [uAssets 
 
 Report issues specific to the Manifest Version 3 (MV3) variant in the [uBOL issue tracker](https://github.com/uBlockOrigin/uBOL-issues/issues).
 
+#### Localization issues
+
+Language translations are handled at Crowdin: <https://crowdin.com/project/ublock>
+
 #### Performance Issues
 
 Speculated performance issues are marked as invalid and closed if they do not come with actual profiling data from the [Firefox Profiler](https://profiler.firefox.com/) (or [Firefox Profiler for Chromium](https://chromewebstore.google.com/detail/firefox-profiler/ljmahpnflmbkgaipnfbpgjipcnahlghn)) and a fully substantiated analysis supporting the claim.
